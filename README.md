@@ -3,8 +3,6 @@
 
 
 
-
-Config files for my GitHub profile.
 To doing the this project i follow the Agile methodology because Agile methodology is a collection of principles that value adaptability and flexibility. Agile aims to provide better responsiveness to changing business needs and therefore focuses on enabling teams to deliver in workable increments.
 
 It’s always handy to know how to do things best. Here are seven things we both doing when implementing any type of Agile methodology.
