@@ -109,3 +109,17 @@ i would like to share the application of the use of technical knowledge and the 
 
 
 ![2022-05-19 (14)](https://user-images.githubusercontent.com/96968334/169335828-047997b8-90fd-441a-8865-1374786c630b.png)
+
+
+
+# Project Presentation At KL University
+
+
+![photo_2022-05-19_21-13-21](https://user-images.githubusercontent.com/96968334/169341838-604381d2-d891-404f-ba2b-2ac2393cdce3.jpg)
+
+
+
+![photo_2022-05-19_21-13-25](https://user-images.githubusercontent.com/96968334/169341877-70daf053-192b-478c-9f72-24ee725584bb.jpg)
+
+
+
