@@ -33,12 +33,15 @@ i would like to share the application of the use of technical knowledge and the 
 # More Details about the AgriStore:
 
 1. Linkedin Page
+
   https://www.linkedin.com/company/agri-store/
 
 2. Project documentation
+
   https://drive.google.com/file/d/19xZMkBn9A170qpaVyccqVqi7oms9X2kj/view?usp=sharing
 
 3. Project explanation video
+
   https://drive.google.com/file/d/1wqSV2O-SS81ZQAm3--or7Sd0nfLEVXuk/view?usp=sharing
   
   
