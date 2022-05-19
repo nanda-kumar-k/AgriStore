@@ -18,10 +18,25 @@ i would like to share the application of the use of technical knowledge and the 
 # For Developing AgriStore Website i use
 
 1. React framework
-2. mongodb database
-3. html, css, javascript, style componets
-4. tokens
+2. express
+3. mongodb database
+4. html, css, javascript, style componets
+5. jsonwebtoken
+6. firebase
+7. redux
+8. nodemon (for testing)
+9. crypto-js
+10. stripe
 
-# Completly Details of the Project:
 
-https://www.linkedin.com/company/agri-store/
+
+# More Details about the AgriStore:
+
+1. Linkedin Page
+  https://www.linkedin.com/company/agri-store/
+
+2. Project documentation
+  https://drive.google.com/file/d/19xZMkBn9A170qpaVyccqVqi7oms9X2kj/view?usp=sharing
+
+3. Project explanation video
+  https://drive.google.com/file/d/1wqSV2O-SS81ZQAm3--or7Sd0nfLEVXuk/view?usp=sharing
