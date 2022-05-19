@@ -1,4 +1,9 @@
 # AgriStore
+
+
+![AS logo](https://user-images.githubusercontent.com/96968334/169337254-b90f66eb-ca0f-4365-b9d9-ed97346d8607.png)
+
+
 Config files for my GitHub profile.
 To doing the this project i follow the Agile methodology because Agile methodology is a collection of principles that value adaptability and flexibility. Agile aims to provide better responsiveness to changing business needs and therefore focuses on enabling teams to deliver in workable increments.
 
