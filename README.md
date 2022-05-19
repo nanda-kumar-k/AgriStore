@@ -1,7 +1,7 @@
-# AgriStore
+
+# ![AS logo - Copy](https://user-images.githubusercontent.com/96968334/169337871-07ed0996-6786-4aca-8861-1869ab54e943.png) AgriStore
 
 
-![AS logo](https://user-images.githubusercontent.com/96968334/169337254-b90f66eb-ca0f-4365-b9d9-ed97346d8607.png)
 
 
 Config files for my GitHub profile.
