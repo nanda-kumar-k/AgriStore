@@ -18,7 +18,7 @@ This recommends the farmer to select a type of crop, its profitability, its best
 
 i would like to share the application of the use of technical knowledge and the power of coding to solve real-world problems that could be solved and would benefit a huge mass of people.
 
-# For Developing AgriStore Website i use
+# For Developing AgriStore 
 
 1. React framework
 2. express
